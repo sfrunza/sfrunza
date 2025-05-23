@@ -1,4 +1,4 @@
-# 👋 Hey, I'm sfrunza
+# 👋 Hey, I'm Sergiu
 
 I'm a web developer who turns ☕ into code and bugs into features.  
 I build modern, clean, and user-friendly web apps — mostly with React and TypeScript.
@@ -39,7 +39,3 @@ I build modern, clean, and user-friendly web apps — mostly with React and Type
 - 📬 Email: sfrunza@yourdomain.com
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfrunza&show_icons=true&theme=tokyonight)
