@@ -1,7 +1,7 @@
 # 👋 Hey, I'm sfrunza
 
 I'm a web developer who turns ☕ into code and bugs into features.  
-I build modern, clean, and user-friendly web apps — mostly with React, TypeScript, and Ruby on Rails.
+I build modern, clean, and user-friendly web apps — mostly with React and TypeScript.
 
 ---
 
