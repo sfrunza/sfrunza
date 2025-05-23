@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**sfrunza/sfrunza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about building modern, scalable web applications. I specialize in:
 
-Here are some ideas to get you started:
+- 🛠 Frontend: React, TypeScript, Next.js, Tailwind CSS
+- 🔧 Backend: Ruby on Rails, Node.js, REST APIs
+- 🗃️ Databases: PostgreSQL, MongoDB
+- ⚙️ Tools: Git, Docker, Vite, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced TypeScript
+- Web performance optimization
+
+## 📂 Featured Projects
+- **[Brave Movers CRM](https://github.com/yourusername/brave-movers-crm)**: A full-stack app for a moving company built with Rails API and React.
+- **[Portfolio Website](https://yourdomain.com)**: My personal portfolio showcasing my work.
+
+## 📫 Reach Me At
+- [yourname.dev](https://yourdomain.com)
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
