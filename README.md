@@ -1,49 +1,45 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hey, I'm sfrunza
 
-###
+I'm a web developer who turns ☕ into code and bugs into features.  
+I build modern, clean, and user-friendly web apps — mostly with React, TypeScript, and Ruby on Rails.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sfrunza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfrunza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🔧 Tech I Work With
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- **Frontend**: React, TypeScript, Next.js, Tailwind CSS
+- **Backend**: Ruby on Rails, Node.js, REST APIs
+- **Databases**: PostgreSQL, MongoDB
+- **Dev Tools**: Git, Docker, Vite, VSCode
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🚀 What I'm Up To
 
-###
+- Looking for my next dev opportunity!
+- Building side projects, learning cool new things, and battling CSS one flexbox at a time
+- Writing code that works... eventually 😅
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 📂 Featured Projects
 
-<br clear="both">
+- 🔧 **[Brave Movers CRM](https://github.com/sfrunza/brave-movers-crm)**  
+  Full-stack app for a moving company built with Rails API and React.
 
-<img src="https://raw.githubusercontent.com/sfrunza/sfrunza/output/snake.svg" alt="Snake animation" />
+- 🌐 **[Portfolio Website](https://your-portfolio.com)**  
+  My digital home — projects, blog, and how to reach me.
 
-###
+---
+
+### 📫 Let's Connect
+
+- 🌍 [Portfolio](https://your-portfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sfrunza)
+- 📬 Email: sfrunza@yourdomain.com
+
+> "Talk is cheap. Show me the code." – Linus Torvalds
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfrunza&show_icons=true&theme=tokyonight)
