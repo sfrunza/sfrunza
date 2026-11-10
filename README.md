@@ -22,20 +22,6 @@ I build modern, clean, and user-friendly web apps — mostly with React and Type
 
 ---
 
-### 📂 Featured Projects
-
-- 🔧 **[Brave Movers CRM](https://github.com/sfrunza/brave-movers-crm)**  
-  Full-stack app for a moving company built with Rails API and React.
-
-- 🌐 **[Portfolio Website](https://www.sfrunza.dev)**  
-  My digital home — projects, blog, and how to reach me.
-
----
-
 ### 📫 Let's Connect
 
-- 🌍 [Portfolio](https://www.sfrunza.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergiufrunza)
-- 📬 Email: frunza.sergiu3@gmail.com
-
-> "Talk is cheap. Show me the code." – Linus Torvalds
